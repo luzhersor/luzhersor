@@ -1,6 +1,6 @@
 
  <div align="center"> 
-  <h2>SKILL SET</h2>
+  <h2>SKILLS</h2>
 </div>
 
 <div align="center"> 
